@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🏆 LeetCode Status
-![LeetCode Stats](https://leetcard.jacoblin.cool/_ishu?theme=dark&ext=heatmap)
+![](https://leetcard.jacoblin.cool/_ishu?ext=heatmap)
+
