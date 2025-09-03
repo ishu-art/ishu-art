@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 
 ### 🏆 LeetCode Status
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_ishu?theme=dark&ext=heatmap)
-
-### 📊 GeeksforGeeks Status
-![GFG Stats](https://gfg-stats.vercel.app/api?user=yishut6bc&theme=dark)
