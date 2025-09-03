@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://leetcard.jacoblin.cool/_ishu?ext=heatmap)
+
+### 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/_ishu?theme=dark&ext=heatmap)
+
+### 📊 GeeksforGeeks Stats
+![GFG Stats](https://gfg-stats.vercel.app/api?user=yishut6bc&theme=dark)
